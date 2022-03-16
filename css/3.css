@@ -39,8 +39,10 @@ body {
 	color:#333;
 }
 #header ul {
-	margin:0px 0px 0px 70px;
-	padding:0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
 }
 #header li {
 	margin:0;
@@ -244,9 +246,4 @@ a {
 	color:#333;
 	text-decoration:none;
 }
-nav ul {
-    padding: 0;
-    display: flex;
-    justify-content: space-around;
-    list-style-type: none;
-}
+
