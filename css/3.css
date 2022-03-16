@@ -41,7 +41,7 @@ body {
 #header ul {
     padding: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     list-style-type: none;
 }
 #header li {
