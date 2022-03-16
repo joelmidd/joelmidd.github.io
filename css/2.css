@@ -244,3 +244,9 @@ a {
 	color:#333;
 	text-decoration:none;
 }
+nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
